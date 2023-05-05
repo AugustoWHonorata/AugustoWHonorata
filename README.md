@@ -25,7 +25,7 @@ Seja muito bem-vindo ao meu espaço e se precisar entrar contato comigo pode ace
   <a href="https://instagram.com/Gutohonorata" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/augusto-wagner-honorata-1489a417a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href"https://github.com/AugustoWHonorata" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img align="right" alt="Guto-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/1f479d993d87572c5f7a1b4e46eb9180.gif?width=676&height=676">
+  <img align="right" alt="Guto-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/1f479d993d87572c5f7a1b4e46eb9180.gif?width=676&height=676#vitrinedev">
 
 </div>
 
