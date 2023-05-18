@@ -8,7 +8,7 @@ Seja muito bem-vindo ao meu espaço e se precisar entrar contato comigo pode ace
 <div>
   <a href="https://github.com/AugustoWHonorata">
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=AugustoWHonorata&show_icons=true&include_all_commits&theme=transparent">
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoWHonorata&layout=compact&theme=transparent">
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoWHonorata&layout=donut&theme=transparent">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
