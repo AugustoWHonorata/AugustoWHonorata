@@ -1,6 +1,6 @@
 # Bem vindo ao meu espaço!👋
 #### Meu nome é Augusto Wagner Honorata, mas pode me chamar de Guto 😉. 
-Seja muito bem-vindo(a) ao meu espaço, se for de seu interesse entrar em contato comigo você pode acessar alguma de minhas redes clicando nos ícones que estarão logo abaixo que responderei o mais rápido possível.
+Seja muito bem-vindo(a) ao meu espaço, se for de seu interesse entrar em contato comigo você pode acessar alguma de minhas redes sociais clicando nos ícones que estarão logo abaixo que responderei o mais rápido possível.
 ##
 
 
