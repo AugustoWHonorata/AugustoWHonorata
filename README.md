@@ -5,19 +5,18 @@ Seja muito bem-vindo(a) ao meu espaço, se for de seu interesse entrar em contat
 
 
 
-<div>
-  <a href="https://github.com/AugustoWHonorata">
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=AugustoWHonorata&show_icons=true&include_all_commits&theme=shadow_blue">
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoWHonorata&layout=donut&theme=shadow_blue">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="ícone Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ícone React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ícone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ícon CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center" >
+  <img height= "165em" src="https://github-readme-stats.vercel.app/api?username=AugustoWHonorata&show_icons=true&include_all_commits&theme=radical">
+  <a >⠀</a>
+ <img height="165em" style="margin-left:30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoWHonorata&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
----
+<br>
+<div style="display: inline_block" align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,tailwind,sass,styledcomponents,nodejs,py,java,spring )](https://skillicons.dev)
+
+</div>
 
 <div>
   <a href= "https://wa.me/5548991148026" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whie" alt="icone Whatsapp"></a> 
